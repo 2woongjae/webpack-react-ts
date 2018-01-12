@@ -1,0 +1,20 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint-react"
+    ],
+    "jsRules": {},
+    "rules": {
+        "no-console": [
+            true,
+            "log",
+            "error",
+            "debug",
+            "info",
+            "time",
+            "timeEnd",
+            "trace"
+        ]
+    },
+    "rulesDirectory": []
+}
